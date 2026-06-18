@@ -6,3 +6,5 @@ google-generativeai
 llama-cpp-python
 python-dotenv
 langchain-text-splitters
+pre-commit
+ruff
