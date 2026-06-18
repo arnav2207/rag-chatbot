@@ -1,2 +1,5 @@
 .env
 models/
+llms/__pycache__/
+temp.pdf
+utils/__pycache__/
